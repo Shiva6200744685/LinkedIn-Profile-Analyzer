@@ -1,0 +1,6 @@
+streamlit
+openai
+nltk
+spacy
+python-dotenv
+PyPDF2>=3.0.0
