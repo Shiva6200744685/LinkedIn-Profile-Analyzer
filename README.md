@@ -34,7 +34,7 @@ pip install google-generativeai PyPDF2
 ### Run the Application
 
 ```bash
-streamlit run linkedin_analyzer_complete.py
+streamlit run main.py
 ```
 
 Open your browser and navigate to `http://localhost:8501`
